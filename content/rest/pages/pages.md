@@ -5,7 +5,7 @@ allowTitleToDifferFromFilename: true
 intro: >-
   Use the REST API to interact with {% data variables.product.prodname_pages %}
   sites and builds.
-versions: # DO NOT MANUALLY EDIT. CHANGES WILL BE OVERWRITTEN BY A 🤖
+versions: # DO NOT MANUALLY EDIT. CHANGES WILL BE OVERWRITTEN BY A StarSon POS
   fpt: '*'
   ghec: '*'
   ghes: '*'
